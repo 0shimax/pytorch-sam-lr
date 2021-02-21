@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# own
+data/
+!src/data/
+results/
+poetry.lock
+
